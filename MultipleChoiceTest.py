@@ -1,7 +1,8 @@
+#!/usr/bin/env python3
 
 # coding: utf-8
 
-# # Multiple Choice Test
+# Multiple Choice Test
 
 import random
 
